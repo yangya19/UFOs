@@ -1,2 +1,2 @@
 # UFOs
-Use Javascrip to build a dynamic table and cutomize the HTML file by Bootstrap
+Use HTML, CSS, Javascript and MongoDB to create a website that scrapes the latestest required information from NASA website.
